@@ -1,8 +1,8 @@
-# AltairCare - Healthcare AI WebApp
+#MEDICO - Healthcare AI WebApp
 
-![AltairCare Logo](https://user-images.githubusercontent.com/83681204/132836093-c80aca67-b58d-420b-8155-23d1e54d46ac.jpg)
+(![medico png](https://github.com/sparklin-78/medico-healthcare/assets/133045204/253d6cb9-b4ee-47cb-a29d-f448de4a4288)
 
-## Welcome to AltairCare!
+
 
 Artificial intelligence is a rapidly advancing field that is revolutionizing various industries, including agriculture, banking, healthcare, and travel. In the healthcare sector, AI has garnered significant attention from tech giants like Microsoft, Google, Apple, and IBM. Why? Because AI simplifies the lives of patients, doctors, and hospital administrators by automating tasks traditionally performed by humans. This not only saves time but also reduces costs. AI also enables the delivery of medical services in remote and inaccessible areas and can diagnose diseases in their early stages, significantly improving the chances of recovery.
 
